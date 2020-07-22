@@ -1,5 +1,5 @@
 {
-  "name": "logfile",
+  "name": "logfile-asterisk",
   "version": "1.0.0",
   "description": "Create a log easy.",
   "main": "index.js",
