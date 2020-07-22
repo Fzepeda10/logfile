@@ -1,0 +1,23 @@
+{
+  "name": "logfile",
+  "version": "1.0.0",
+  "description": "Create a log easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fzepeda10/logfile.git"
+  },
+  "keywords": [
+    "Log",
+    "File"
+  ],
+  "author": "Fernando E. Zepeda Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fzepeda10/logfile/issues"
+  },
+  "homepage": "https://github.com/Fzepeda10/logfile#readme"
+}
